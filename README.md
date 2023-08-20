@@ -1,6 +1,6 @@
-# Heart rate monitor on Web
+  # Heart rate monitor on Web
 
-A web app that allows you to measure your heartrate by placing your finger on the camera. Essentially a clone of [this](https://github.com/pstefa1707/camera-heart-rate-monitor/tree/main) by @pstefa1707. 
+A web app that allows you to measure your heartrate by placing your finger on the camera. Essentially a clone of [this](https://github.com/pstefa1707/camera-heart-rate-monitor/tree/main) by [@pstefa1707](https://github.com/pstefa1707). 
 
 ### `npm start`
 
